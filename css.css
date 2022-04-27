@@ -1,0 +1,23 @@
+body{
+    background:url(bg.webp) center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+h1{
+    align-content: center;
+    text-shadow: 0 8px 5px rgba(1,0,8,.3);
+    color: rgba(0, 255, 247, 0.87);
+    font-size: 48px;
+}
+h3{
+    color: aquamarine;
+}
+.ym{
+    width: 310px;
+    border:1px solid white;
+    margin: auto;
+}
+.ym td{
+    color: rgba(127, 255, 212, 0.74);
+}
